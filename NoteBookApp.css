@@ -1,0 +1,13 @@
+html{
+scroll-behavior: smooth;
+}
+body{
+align-content: center;
+background-color: darkblue;
+}
+.notebook{
+height: 500px;
+width: 300px;
+border: solid black;
+background-color: yellow;
+}
